@@ -1,0 +1,2 @@
+Pasar a mayúsculas e invertir una cadena
+Escribe un programa que le pregunte al usuario por una cadena de texto y después la imprima en mayúsculas e invertida (al revés):

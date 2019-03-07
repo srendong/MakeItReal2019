@@ -1,0 +1,2 @@
+Palíndrome
+Que le pregunte una palabra o frase y diga si es un palíndrome o no.
